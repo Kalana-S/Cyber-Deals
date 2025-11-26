@@ -1,6 +1,6 @@
 # Cyber-Deals E-commerce Website
 
-Cyber-Deals is a feature-rich e-commerce web application designed with a futuristic and attractive user interface. The system enables seamless online shopping experiences while ensuring authentication and session management for different user roles.
+Cyber-Deals is a feature-rich e-commerce web application designed with a futuristic and attractive user interface. The system enables seamless online shopping experiences while ensuring **authentication** and **session management** for different user roles.
 
 ## 🚀 Features
 
