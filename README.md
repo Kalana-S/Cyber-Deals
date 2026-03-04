@@ -202,18 +202,71 @@ http://localhost/Cyber/public/
 
 ---
 
-## 🎥 Cyber-Deals – Demo Videos
+## 🎥 Cyber-Deals – System Demonstration Videos
 
-| 🎯 Module                                                  | ▶️ Demo Video                                                                                   |
-| :--------------------------------------------------------- | :---------------------------------------------------------------------------------------------- |
-| **1️⃣ Admin Actions**                                      | [Watch Demo](https://github.com/your-username/your-repo/assets/admin-actions-video-link)        |
-| **2️⃣ Admin – Product Add / Update / Manage**              | [Watch Demo](https://github.com/your-username/your-repo/assets/admin-product-manage-video-link) |
-| **3️⃣ Admin – User Add / Update / Manage**                 | [Watch Demo](https://github.com/your-username/your-repo/assets/admin-user-manage-video-link)    |
-| **4️⃣ Admin – Reports (Sales & Stock)**                    | [Watch Demo](https://github.com/your-username/your-repo/assets/admin-reports-video-link)        |
-| **5️⃣ Product Form Validations**                           | [Watch Demo](https://github.com/your-username/your-repo/assets/product-validation-video-link)   |
-| **6️⃣ User Form Validations**                              | [Watch Demo](https://github.com/your-username/your-repo/assets/user-validation-video-link)      |
-| **7️⃣ Customer Actions (Register → Login → Cart → Order)** | [Watch Demo](https://github.com/your-username/your-repo/assets/customer-actions-video-link)     |
-| **8️⃣ Fully Responsive Design (All Devices)**              | [Watch Demo](https://github.com/your-username/your-repo/assets/responsive-design-video-link)    |
+<table>
+<tr>
+<th width="40%">🎯 Module</th>
+<th width="60%">▶️ Demo Preview</th>
+</tr>
+
+<tr>
+<td><b>1️⃣ Admin Actions</b></td>
+<td>
+<video src="https://github.com/user-attachments/assets/9d4d04cd-3857-49ac-aebd-a788387201a4" width="420" controls></video>
+</td>
+</tr>
+
+<tr>
+<td><b>2️⃣ Admin – Product Add / Update / Manage</b></td>
+<td>
+<video src="https://github.com/user-attachments/assets/88c0afd1-87d8-4287-9db8-fa24d2d60feb" width="420" controls></video>
+</td>
+</tr>
+
+<tr>
+<td><b>3️⃣ Admin – User Add / Update / Manage</b></td>
+<td>
+<video src="https://github.com/user-attachments/assets/d0509c02-c4bf-4128-a17a-980807d1d566" width="420" controls></video>
+</td>
+</tr>
+
+<tr>
+<td><b>4️⃣ Admin – Reports (Sales & Stock)</b></td>
+<td>
+<video src="https://github.com/user-attachments/assets/d993c2a0-e302-49d1-b94e-272ff9c80019" width="420" controls></video>
+</td>
+</tr>
+
+<tr>
+<td><b>5️⃣ Product Form Validations</b></td>
+<td>
+<video src="https://github.com/user-attachments/assets/74c20a57-73d4-48b8-ba9f-e31cab65c509" width="420" controls></video>
+</td>
+</tr>
+
+<tr>
+<td><b>6️⃣ User Form Validations</b></td>
+<td>
+<video src="https://github.com/user-attachments/assets/59a942fb-79fe-4eb8-ad0e-a5c3db27d0ac" width="420" controls></video>
+</td>
+</tr>
+
+<tr>
+<td><b>7️⃣ Customer Actions (Register → Login → Cart → Order)</b></td>
+<td>
+<video src="https://github.com/user-attachments/assets/a25d4bcf-7b2b-453d-aa22-4c5120ea7bf9" width="420" controls></video>
+</td>
+</tr>
+
+<tr>
+<td><b>8️⃣ Fully Responsive Design (All Devices)</b></td>
+<td>
+<video src="https://github.com/user-attachments/assets/afb9e856-d2cc-42cb-bbf8-63496b3405f8" width="420" controls></video>
+</td>
+</tr>
+
+</table>
 
 ---
 
