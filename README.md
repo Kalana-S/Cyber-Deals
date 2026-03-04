@@ -121,11 +121,11 @@ app/config/database.php
 
 ## 📊 Reports System
 
-### 📈 Sales Reports
+### Sales Reports
 - Generated from Admin panel
 - Downloadable export
 
-### 📦 Stock Reports
+### Stock Reports
 - Filter by Main Category or Subcategory
 - Downloadable export
 
