@@ -177,7 +177,7 @@ app/config/database.php with your local credentials.
 ### 5️⃣ Run
 Open in browser:
 ```
-http://localhost/Cyber/public/
+http://localhost/Cyber-Deals/public/
 ```
 
 ---
