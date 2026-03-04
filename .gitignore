@@ -1,0 +1,78 @@
+############################################
+# Cyber-Deals - PHP Project .gitignore
+############################################
+
+# -----------------------------
+# OS Generated Files
+# -----------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -----------------------------
+# VS Code
+# -----------------------------
+.vscode/
+.history/
+
+# -----------------------------
+# WampServer / Local Server Logs
+# -----------------------------
+*.log
+wampmanager.conf
+
+# -----------------------------
+# Environment / Config Files
+# -----------------------------
+.env
+.env.*
+app/config/database.local.php
+
+# -----------------------------
+# Vendor (if using Composer in future)
+# -----------------------------
+vendor/
+
+# -----------------------------
+# Node Modules (if added later)
+# -----------------------------
+node_modules/
+
+# -----------------------------
+# Uploads (User Uploaded Images)
+# -----------------------------
+!public/uploads/.gitkeep
+
+# -----------------------------
+# Cache / Session Files
+# -----------------------------
+*.cache
+*.session
+tmp/
+cache/
+
+# -----------------------------
+# Database Exports (Keep only main SQL)
+# -----------------------------
+database/*.sql
+!database/cyber_deals.sql
+
+# -----------------------------
+# IDE / Editor Specific
+# -----------------------------
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# -----------------------------
+# Backup Files
+# -----------------------------
+*.bak
+*.old
+*.zip
+*.tar
+*.gz
+
+############################################
+# END
+############################################
